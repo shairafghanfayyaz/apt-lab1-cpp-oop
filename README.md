@@ -1,5 +1,5 @@
 # APT Lab 1 – Advanced Programming Techniques
-### Hochschule Darmstadt | Prof. Dr. Michael Lipp | WS 2025/26
+### Hochschule Darmstadt | WS 2025/26
 
 Solutions for the three exercises of APT Lab 1, covering core object-oriented 
 design principles in C++. Each exercise is implemented as a standalone Eclipse 
